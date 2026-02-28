@@ -1,0 +1,19 @@
+{
+  "file": "dummy_fr.txt",
+  "language": "fr",
+  "metadata": {
+    "document_type": "Arrêté",
+    "date": "12/05/2023",
+    "department": "Département de l'informatique",
+    "source_file": "dummy_fr.txt",
+    "processed_at": "2026-02-28T03:40:05.835572"
+  },
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "content": "République Tunisienne\nMinistère de l'Enseignement Supérieur et de la Recherche Scientifique\nFaculté des Sciences de Tunis\n\nDépartement de l'informatique\nDate: 12/05/2023\n\nARRÊTÉ\n\nObjet: Organisation des examens finaux de la session du printemps.\n\nLe doyen de la Faculté des Sciences de Tunis, vu la loi numéro 89-70 du 28 juillet 1989 relative à l'enseignement supérieur, décide ce qui suit:\n\nArticle 1: Les examens finaux auront lieu du 1 au 15 juin 2023.\n\nArticle 2: Les étudiants doivent se présenter munis de leur carte d'étudiant et de leur carte d'identité nationale.\n\nArticle 3: Tout cas de fraude sera sanctionné selon la réglementation en vigueur.\n\nFait à Tunis, le 12 mai 2023.\nLe Doyen.",
+      "char_count": 697
+    }
+  ]
+}
